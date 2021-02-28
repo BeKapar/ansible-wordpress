@@ -1,0 +1,5 @@
+[admin]
+server-ansible
+
+[webserver]
+web02
